@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="099b1380-d2c1-4129-8e4b-1783a9293169" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/travel_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/travel_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/travel_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/travel_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/route_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/route_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/route_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/route_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-27" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-27" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/util/MailUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/util/MailUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/web/servlet/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/travel/web/servlet/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/travel/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/travel/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/travel/util/MailUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/travel/util/MailUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/travel/util/MailUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/travel/util/MailUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/itcast/travel/web/servlet/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/itcast/travel/web/servlet/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-28" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-09-28" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +61,13 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Java\maven_repository" />
-        <option name="mavenHome" value="D:/Java/apache-maven-3.5.2" />
+        <option name="mavenHome" value="D:\Java\apache-maven-3.5.2" />
         <option name="userSettingsFile" value="D:\Java\apache-maven-3.5.2\conf\settings.xml" />
-        <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="createModuleGroups" value="true" />
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -71,7 +80,6 @@
   <component name="ProjectId" id="1hALONbqZLblBcfAaIHRkEc5Vo5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -80,7 +88,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -188,6 +197,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -220,12 +230,18 @@
       <workItem from="1600738375324" duration="65716000" />
       <workItem from="1601001532809" duration="25951000" />
       <workItem from="1601083694987" duration="9022000" />
-      <workItem from="1601254784005" duration="1508000" />
+      <workItem from="1601254784005" duration="6331000" />
+      <workItem from="1601373596546" duration="431000" />
+      <workItem from="1602672881109" duration="201000" />
+      <workItem from="1603516069206" duration="190000" />
+      <workItem from="1603517331147" duration="1788000" />
+      <workItem from="1604889890391" duration="699000" />
+      <workItem from="1605230712433" duration="7501000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="75" key="#Custom_Plugin_Repositories" timestamp="1600047420179">
@@ -250,35 +266,35 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="521" height="443" key="DebuggerActiveHint/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1600914290409" />
-    <state x="548" y="199" key="FileChooserDialogImpl" timestamp="1600047450674">
+    <state x="548" y="199" key="FileChooserDialogImpl" timestamp="1601289822112">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="199" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1600047450674" />
-    <state x="548" y="199" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599902002845" />
-    <state width="1493" height="98" key="GridCell.Tab.0.bottom" timestamp="1601256020773">
+    <state x="548" y="199" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1601289822112" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1605238192386">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="98" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601256020773" />
+    <state width="1493" height="154" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601257476632" />
     <state width="1191" height="167" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1234.587@1920.0.1234.587" timestamp="1600045337175" />
-    <state width="934" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601195422054" />
-    <state width="1493" height="98" key="GridCell.Tab.0.center" timestamp="1601256020772">
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605238192386" />
+    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1605238192386">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="98" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601256020772" />
+    <state width="1493" height="154" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601257476632" />
     <state width="1191" height="167" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1234.587@1920.0.1234.587" timestamp="1600045337174" />
-    <state width="934" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601195422054" />
-    <state width="1493" height="98" key="GridCell.Tab.0.left" timestamp="1601256020772">
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605238192386" />
+    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1605238192386">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="98" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601256020772" />
+    <state width="1493" height="154" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601257476632" />
     <state width="1191" height="167" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1234.587@1920.0.1234.587" timestamp="1600045337174" />
-    <state width="934" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601195422053" />
-    <state width="1493" height="98" key="GridCell.Tab.0.right" timestamp="1601256020772">
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605238192386" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1605238192386">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="98" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601256020772" />
+    <state width="1493" height="154" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601257476632" />
     <state width="1191" height="167" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1234.587@1920.0.1234.587" timestamp="1600045337174" />
-    <state width="934" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601195422054" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605238192386" />
     <state width="1493" height="199" key="GridCell.Tab.1.bottom" timestamp="1601000454510">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -307,10 +323,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1600858129308" />
-    <state x="46" y="118" key="SettingsEditor" timestamp="1600740957442">
+    <state x="270" y="59" key="SettingsEditor" timestamp="1601257230182">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="59" key="SettingsEditor/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1600048079623" />
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1601257230182" />
     <state x="46" y="118" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600740957442" />
     <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601254782947">
       <screen x="0" y="0" width="1536" height="834" />
@@ -326,11 +342,11 @@
     </state>
     <state x="511" y="44" key="refactoring.ChangeSignatureDialog/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1600913050491" />
     <state x="511" y="44" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1601038592881" />
-    <state x="432" y="104" width="672" height="514" key="run.anything.popup" timestamp="1600858130801">
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1603517345582">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="432" y="104" width="672" height="514" key="run.anything.popup/0.0.1536.834/1920.0.1234.587@0.0.1536.834" timestamp="1600858130801" />
-    <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1600740232967" />
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1603517345582" />
     <state x="2396" y="189" key="save.project.as.template.dialog" timestamp="1599531121701">
       <screen x="1920" y="0" width="1234" height="587" />
     </state>

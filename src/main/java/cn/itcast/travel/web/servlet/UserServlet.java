@@ -217,6 +217,7 @@ public class UserServlet extends BaseServlet {
      */
     public void active(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
         //1.激活码
+
         String code = request.getParameter("code");
 
         if (code!=null){
@@ -228,7 +229,8 @@ public class UserServlet extends BaseServlet {
             String msg = null;
             if (flag){
                 //激活成功
-                msg = "激活成功，请<a href='login.html'>登录</a>";
+                // msg = "激活成功，请<a href='http://localhost:8080/travel/login.html'>登录</a>";
+                msg = "激活成功，请<a href='http://sanjin.work/login.html'>登录</a>";
             }
             else {
                 msg = "激活失败";

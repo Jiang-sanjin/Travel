@@ -25,6 +25,12 @@ public final class MailUtils {
             props.put("mail.smtp.auth", "true");
             props.put("mail.smtp.host", "smtp.qq.com");
 
+            //邮箱发送服务器端口,这里设置为465端口
+            props.setProperty("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");
+            props.setProperty("mail.smtp.socketFactory.port", "587");
+            props.setProperty("mail.smtp.port", "587");
+
+
             // 发件人的账号
             props.put("mail.user", USER);
             //发件人的密码
@@ -60,6 +66,7 @@ public final class MailUtils {
             message.setContent(text, "text/html;charset=UTF-8");
             // 发送邮件
             Transport.send(message);
+            System.out.println("发送成功");
             return true;
         }catch (Exception e){
             e.printStackTrace();
